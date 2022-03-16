@@ -6,3 +6,4 @@
 
 从master分支切换到hot-fix分支
 hot-fix分支切换到master分支
+从master分支切换到hot-fix分支test2

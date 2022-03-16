@@ -8,4 +8,5 @@
 hot-fix分支切换到master分支
 从master分支切换到hot-fix分支test2
 
-testService项目提交到了远程库，现在继续修改 修改远程提交 远程仓库保持更新
+testService项目提交到了远程库，现在继续修改 修改远程提交 远程仓库保持更新 push
+从idea pull拉取gitHub上的代码
